@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel2DualSql", "Excel2DualSql\Excel2DualSql.csproj", "{851D5BCC-B04E-4B51-B085-602D7A05819C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851D5BCC-B04E-4B51-B085-602D7A05819C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851D5BCC-B04E-4B51-B085-602D7A05819C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851D5BCC-B04E-4B51-B085-602D7A05819C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851D5BCC-B04E-4B51-B085-602D7A05819C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3661C2F-6EB4-45CB-BAB6-F8FB04E53E6B}
+	EndGlobalSection
+EndGlobal
